@@ -7,12 +7,14 @@
 //
 
 import UIKit
-
+import StringExtensions
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        let sampleStrig: String = "Do any additional setup after loading the view, typically from a nib"
+        
+        print("Word Count \(sampleStrig.wordCount)")
     }
 
     override func didReceiveMemoryWarning() {
