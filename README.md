@@ -1,9 +1,5 @@
 # StringExtensions
 
-[![CI Status](https://img.shields.io/travis/mupenta/StringExtensions.svg?style=flat)](https://travis-ci.org/mupenta/StringExtensions)
-[![Version](https://img.shields.io/cocoapods/v/StringExtensions.svg?style=flat)](https://cocoapods.org/pods/StringExtensions)
-[![License](https://img.shields.io/cocoapods/l/StringExtensions.svg?style=flat)](https://cocoapods.org/pods/StringExtensions)
-[![Platform](https://img.shields.io/cocoapods/p/StringExtensions.svg?style=flat)](https://cocoapods.org/pods/StringExtensions)
 
 ## Example
 
@@ -22,7 +18,7 @@ pod 'StringExtensions'
 
 ## Author
 
-mupenta, ajeetsharma389@gmail.com
+ajeetsharma389
 
 ## License
 
