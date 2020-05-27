@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'StringExtensions'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'This will help you to get word count from a string.'
 
 # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'ajeetsharma389' => '' }
-  s.source           = { :git => 'https://github.com/ajeetsharma389/PrivatePods.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ajeetsharma389/PrivatePods.git', :tag => '1.0.0' }
 
   s.ios.deployment_target = '9.3'
   s.swift_versions = '4.1'
